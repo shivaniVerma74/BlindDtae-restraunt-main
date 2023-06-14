@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "419010508318",
+    "project_id": "blind-date-dc85e",
+    "storage_bucket": "blind-date-dc85e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419010508318:android:1412b353015cee01bae00f",
+        "android_client_info": {
+          "package_name": "com.restaurant.blinddate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419010508318-3snsr4o2lmhv7abpe9qrjngf010lspk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJSHbqLlf_r00Y3zAeq20giE0fcy9A8vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419010508318-3snsr4o2lmhv7abpe9qrjngf010lspk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419010508318:android:70333a658dd0130fbae00f",
+        "android_client_info": {
+          "package_name": "com.user.blinddate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419010508318-3snsr4o2lmhv7abpe9qrjngf010lspk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJSHbqLlf_r00Y3zAeq20giE0fcy9A8vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419010508318-3snsr4o2lmhv7abpe9qrjngf010lspk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
