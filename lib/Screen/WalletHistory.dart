@@ -154,7 +154,10 @@ class _WalletHistoryState extends State<WalletHistory>
       Navigator.pop(context);
       Fluttertoast.showToast(msg: result['message'].toString());
       // _refresh();
+
       getWalletTransactions();
+      getSallerBalance();
+
 
     }
     else {
